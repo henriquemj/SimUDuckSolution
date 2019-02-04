@@ -15,6 +15,7 @@ namespace SimUDuck.Fabrica
             patos.Add(new PatoReal());
 
             return patos;
+
         }
     }
 }
